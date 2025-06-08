@@ -13,7 +13,8 @@ Welcome to my sysadmin lunchbox—where you'll find a curated collection of Pyth
 - 🐍 `log_muncher.py` — log file analyzer that eats errors for breakfast  
 - 🧹 `clean_sweep.py` — disk cleanup script with just enough attitude  
 - ☁️ `cloud_ping.py` — basic AWS health check using Boto3  
-- 🐚 `shell_wrapper.py` — run shell commands without yelling at Bash  
+- 🐚 `shell_wrapper.py` — run shell commands without yelling at Bash
+- 🧟‍♀️ `Dead_Code_Detector.py` — Find unused code in your Python projects
 
 ---
 
