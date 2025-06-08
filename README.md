@@ -4,11 +4,11 @@
 
 Welcome to my sysadmin lunchbox—where you'll find a curated collection of Python mini-projects for system automation, monitoring, and command-line mischief. Each "snack" is a standalone script with real-world utility and a sprinkle of fun.
 
-🍴 Built while working through CS50x, Python certifications, and my path to becoming a SysDev Engineer at Amazon.
+      🍴 Built while working through CS50x, Python certifications, and my path to becoming a SysDev Engineer at Amazon. 🍴
 
 ---
 
-### 📦 Menu Preview
+## 📦 Menu Preview
 
 - 🐍 `log_muncher.py` — log file analyzer that eats errors for breakfast  
 - 🧹 `clean_sweep.py` — disk cleanup script with just enough attitude  
@@ -18,4 +18,14 @@ Welcome to my sysadmin lunchbox—where you'll find a curated collection of Pyth
 
 ---
 
-### 🛠 Tools: Python, Bash, Linux, AWS (Boto3), Docker, Git
+## 🛠 Tools: Python, Bash, Linux, AWS (Boto3), Docker, Git (because obviously)
+
+---
+
+## 🍽️ How to Taste 🍽️
+
+Clone and install any required packages:
+
+```bash
+git clone
+https://github.com/yourusername/sysdev-snack-pack.gitcde sysdev-snack-pack pip install -r requirements.txt
